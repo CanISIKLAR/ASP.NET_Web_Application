@@ -1,6 +1,6 @@
 Copy Right 2019 Can ISIKLAR
 
-This is Online Shopping Web Application.
+This is Online Shopping Web Application. (E-Commerce)
 
 The Company Name is Next Technology, I created:
 Home page, Log in page, Company Logo (which is linking to the Home Page), Sign in, Main Master Page 
