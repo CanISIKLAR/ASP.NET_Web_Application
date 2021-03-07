@@ -13,10 +13,9 @@ For the Front-end Development, I use HTML, CSS and JS Programming Languages.
 For Products and Products Details to Store in the data base, I use SQL programming language.</p>
 
 
-<h3>Home Page</h3>
+
 ![Screenshot 2020-10-15 232418](https://user-images.githubusercontent.com/61684825/110246282-b7ff6e80-7f6f-11eb-83cc-811d7448364d.png)
 ![Screenshot 2020-10-15 232519](https://user-images.githubusercontent.com/61684825/110246307-cd749880-7f6f-11eb-840a-8dab8f57348f.png)
-
 ![Screenshot 2020-10-15 232813](https://user-images.githubusercontent.com/61684825/110246308-cea5c580-7f6f-11eb-9487-3bf84c7cadc0.png)
 ![Screenshot 2020-10-15 232851](https://user-images.githubusercontent.com/61684825/110246309-cf3e5c00-7f6f-11eb-9931-06cd2371cf54.png)
 ![Screenshot 2020-10-15 232927](https://user-images.githubusercontent.com/61684825/110246311-d06f8900-7f6f-11eb-8cc2-700b359ad618.png)
