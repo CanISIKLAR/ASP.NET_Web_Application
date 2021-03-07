@@ -1,4 +1,6 @@
-Copy Right 2019 Can ISIKLAR
+<h1>ASP.NET Web Application E-Commerce<h1/>
+  
+Copy Right(c) 2019 Can ISIKLAR
 
 This is Online Shopping Web Application. (E-Commerce)
 
